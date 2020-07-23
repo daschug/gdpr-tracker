@@ -12,7 +12,7 @@
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://mailchimp.com/legal/privacy",
   "dsarUrl": "",
-  "dpaUrl": "https://mailchimp.com/legal/forms/data-processing-agreement",
+  "dpaUrl": "https://mailchimp.com/legal/data-processing-addendum/",
   "subprocessorsUrl": "https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement",
   "dataCenters": [
     "US"
